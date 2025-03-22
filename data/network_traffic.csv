@@ -1,0 +1,5 @@
+src_ip,dst_ip,protocol,duration,packets,bytes,flags
+192.168.1.1,10.0.0.2,TCP,2.5,30,1500,SYN
+192.168.1.2,10.0.0.3,UDP,1.0,20,800,ACK
+192.168.1.1,10.0.0.2,TCP,2.5,30,1500,SYN
+10.0.0.1,10.0.0.4,ICMP,0.2,5,300,ECHO
